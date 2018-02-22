@@ -1,3 +1,3 @@
 # StudentResourcesAPPLE
 
-John's Copy of Student Resources folder
+John's Copy of the Student Resources folder 
